@@ -13,7 +13,7 @@ Ref: Official Python SDK - https://github.com/modelcontextprotocol/python-sdk
 
 2. Activate the virtual environment
 
-``` source venv/bin/activate```
+```source venv/bin/activate```
 
 3. Install the requirements
 
